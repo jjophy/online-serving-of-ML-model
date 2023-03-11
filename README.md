@@ -1,5 +1,7 @@
 # online-serving-of-ML-model
-online-serving of ML model
+QIS Assignment part2 
+Submitted by Jophy Joseph   Sep11 2022
+
 In this assignment, we will build a docker container to perform online serving of a ML
 model. 
 We need the following files:
@@ -14,9 +16,9 @@ alphabets.
 Task:
 train.py
 1. Add one more model apart from the one used in TA Session (any machine
-learning model of your choice) in the train.py file and save it. 
-2. Modify the inference.py file to display the output of the above model. 
+learning model of your choice) in the train.py file and save it. (5 points)
+2. Modify the inference.py file to display the output of the above model. (5 points)
 3. Build the docker image of the final application and run it and submit the
-screenshot of the output. 
+screenshot of the output. (15 points)
 a. Build the Docker File
 b. running the api.py file provides different flask routes for prediction and score using LDA and neural network
